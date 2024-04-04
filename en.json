@@ -1,0 +1,14 @@
+{
+    "selectedLanguage": "English",
+    "changeLanguage": "Change Language",
+    "languageOptions": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "es",
+        "name": "Español"
+      }
+    ]
+  }
